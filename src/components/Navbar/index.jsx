@@ -1,6 +1,5 @@
 import logo from "../../images/ActyvLogo.svg";
 import React, { Component } from "react";
-import { Input } from "@chakra-ui/react";
 
 class NavBar extends Component {
   state = {};
