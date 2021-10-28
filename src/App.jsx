@@ -19,8 +19,8 @@ const App = () => {
           </button>
         </p>
         <div>
-          <button class="button is-rounded">Sample Form</button>
-          <button class="button is-danger is-rounded">Welcome Page</button>
+          <button className="button is-rounded">Sample Form</button>
+          <button className="button is-danger is-rounded">Welcome Page</button>
         </div>
       </header>
     </div>
